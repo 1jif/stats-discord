@@ -36,13 +36,13 @@ client.on('ready', async () => {
     .setApplicationId('1265825059692609587')
     .setType('PLAYING')
     .setURL('https://www.twitch.tv/apparentlyjack_rl') 
-    .setState('Hey Nitro is here')
+    .setState('# f9 525')
     .setName('quaaxz')
-    .setDetails(`Nitro is now`)
+    .setDetails(`#f9 525`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://media.discordapp.net/attachments/1041035673118965772/1270521845841657907/image_2.webp?ex=66b4012d&is=66b2afad&hm=c0fa475d23f70fc777bcea2e70d9682a9aedf2d565ae549e64552ac303361d2b&=&format=webp&width=696&height=379') //You can put links in tenor or discord and etc.
-    .setAssetsLargeText('Nitro') 
-    .setAssetsSmallImage('https://media.discordapp.net/attachments/1041035673118965772/1270522062095781990/checked.png?ex=66b40160&is=66b2afe0&hm=1413e3f740030479e77899e2e3bebeb05f97a80e7c0b828e6ec6e9012f86255d&=&format=webp&quality=lossless&width=768&height=768') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://cdn.discordapp.com/avatars/1276453933442662441/52f6b7b38d8324954bcb46e33bc5c51d.png?size=1024') //You can put links in tenor or discord and etc.
+    .setAssetsLargeText('# I'm Here gg/0v') 
+    .setAssetsSmallImage('https://cdn.discordapp.com/avatars/1276453933442662441/52f6b7b38d8324954bcb46e33bc5c51d.png?size=1024') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Small Text') 
     .addButton('Google', 'https://google.com');
 
